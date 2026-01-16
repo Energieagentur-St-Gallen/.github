@@ -13,8 +13,9 @@
   <a href="https://github.com/energieagentur-sg">
     <img src="https://img.shields.io/badge/Focus-Energy_Transition-blue?style=for-the-badge&logo=leaf" alt="Focus" />
   </a>
-  <img src="https://img.shields.io/badge/Location-St.Gallen_🇨🇭-red?style=for-the-badge" alt="Location" />
-
+  <a href="https://maps.app.goo.gl/DfBVbvRXpZDyo76o6">
+    <img src="https://img.shields.io/badge/Location-St.Gallen_🇨🇭-red?style=for-the-badge" alt="Location" />
+  </a>
   <br />
   <br />
 </div>
